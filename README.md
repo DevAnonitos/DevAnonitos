@@ -26,29 +26,7 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 
 ---
 
-## 🛠️ Currently Working On
-
-- [Project One](https://github.com/DevAnonitos/project-one) — A modern web app for productivity.
-- [Project Two](https://github.com/DevAnonitos/project-two) — Open-source API for developers.
-
----
-
-## 📫 How to Reach Me
-
-- Email: [devanonitos@example.com](mailto:devanonitos@example.com)
-- [LinkedIn](https://www.linkedin.com/in/devanonitos)
-- [Twitter](https://twitter.com/devanonitos)
-- [Portfolio](https://devanonitos.dev)
-
----
-
 ## 🎉 Fun Facts & Hobbies
-
-- 🎸 I play guitar and love composing music.
-- 🌏 I enjoy traveling and exploring new cultures.
-- 🧩 Puzzle enthusiast and board game lover.
-
----
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DevAnonitos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
