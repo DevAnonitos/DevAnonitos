@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Nguyen Duc Gia Bao
 
-# Hi there, I'm DevAnonitos! 👋
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Research+%26+Development+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -13,7 +12,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ---
 
-## 👨‍💻 About Me
 ## 🎯 About Me
 
 I'm **DevAnonitos**, a passionate software developer with experience in building robust web applications and scalable backend systems. My expertise includes JavaScript, TypeScript, React, Node.js, Express, and MongoDB. I love solving complex problems and learning new technologies.
@@ -29,7 +27,6 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 ---
 
 ## 🚀 Tech Stack
-## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -67,6 +64,7 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <p align="left">
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -75,7 +73,9 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
 </p>
+
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -94,7 +94,6 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 
 ---
 
-## 🎉 Fun Facts & Hobbies
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -173,7 +172,7 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAnonitos&theme=tokyo-night&hide_border=true)](https://github.com/DevAnonitos)
 
 </div>
 
@@ -243,14 +242,3 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DevAnonitos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-<div align="center">
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAnonitos&show_icons=true&theme=radical" alt="DevAnonitos's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAnonitos&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-### 🌟 Show some ❤️ by starring some of the repositories!
-
-**"Research is to see what everybody else has seen, and to think what nobody else has thought."** - *Albert Szent-Györgyi*
-
-</div>
