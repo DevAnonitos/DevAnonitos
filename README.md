@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ## 🎯 About Me
 
 I'm **DevAnonitos**, a passionate software developer with experience in building robust web applications and scalable backend systems. My expertise includes JavaScript, TypeScript, React, Node.js, Express, and MongoDB. I love solving complex problems and learning new technologies.
+
 🔬 **Research Focus**: Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision  
 💻 **Development**: Full-stack development with focus on scalable and efficient solutions  
 🌱 **Currently Learning**: Advanced Deep Learning architectures, MLOps, and Cloud-native technologies  
@@ -203,12 +204,12 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/YOUR_PROFILE)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/YOUR_PROFILE)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR_ORCID)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4591-6361)
 
 </div>
 
 ---
-
+<!-- 
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -241,4 +242,4 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DevAnonitos&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+</p> -->
