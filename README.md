@@ -4,7 +4,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Research+%26+Development+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm thrilled to have you here.
 [![GitHub followers](https://img.shields.io/github/followers/DevAnonitos?style=social)](https://github.com/DevAnonitos)
 [![GitHub stars](https://img.shields.io/github/stars/DevAnonitos?style=social)](https://github.com/DevAnonitos)
 
@@ -13,8 +12,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ---
 
 ## 🎯 About Me
-
-I'm **DevAnonitos**, a passionate software developer with experience in building robust web applications and scalable backend systems. My expertise includes JavaScript, TypeScript, React, Node.js, Express, and MongoDB. I love solving complex problems and learning new technologies.
 
 🔬 **Research Focus**: Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision  
 💻 **Development**: Full-stack development with focus on scalable and efficient solutions  
@@ -112,7 +109,7 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 ## 🔬 Research & Publications
 
 ### 📝 Recent Publications
-<!-- Replace with your actual publications or remove this section if you don't have any yet -->
+
 - **[Paper Title 1]** - Conference/Journal Name, Year  
   [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobe-acrobat-reader)](link-to-paper)
   [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](link-to-code)
@@ -199,11 +196,10 @@ I'm **DevAnonitos**, a passionate software developer with experience in building
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/YOUR_PROFILE)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/YOUR_PROFILE)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Bao-Nguyen-Duc-Gia)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4591-6361)
 
 </div>
