@@ -1,16 +1,21 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Nguyen Duc Gia Bao
+
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Research+%26+Development+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+
 </div>
+
 ---
+
 ## 🎯 About Me
 🔬 **Research Focus**: Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision  
 💻 **Development**: Full-stack development with focus on scalable and efficient solutions  
 🌱 **Currently Learning**: Advanced Deep Learning architectures, MLOps, and Cloud-native technologies  
-🎓 **Education**: [Your Degree] in [Your Field] from [Your University]  
+🎓 **Education**: [Your Degree] in Computer Science from Ho Chi Minh City Open University (HCMCOU)  
 📫 **Reach me**: [your.email@example.com](mailto:your.email@example.com)  
 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -65,15 +70,19 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 ---
 
 ## 📊 GitHub Statistics
+
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
+
 ---
 
 ## 🔬 Research & Publications
@@ -93,14 +102,17 @@
 - 🤖 Reinforcement Learning
 - 📊 Data Mining & Analytics
 - 🔐 AI Security & Privacy
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌟 Highlighted Repositories
 <div align="center">
+
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME_1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+
 </div>
 
 ### 💡 Project Categories
@@ -117,21 +129,27 @@
   - Tech: `React` `Node.js` `MongoDB`
   - [![GitHub](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](link)
   - [![Live Demo](https://img.shields.io/badge/View-Live_Demo-green?style=flat-square&logo=vercel)](link)
+
 ---
 ## 📈 Contribution Graph
+
 <div align="center">
   
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
+
 </div>
+
 ---
 
 ## 🏅 Achievements & Certifications
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
 ### 📜 Certifications
 - 🎓 **[Certification Name]** - Issuing Organization, Year
 - 🎓 **[Certification Name]** - Issuing Organization, Year
 - 🎓 **[Certification Name]** - Issuing Organization, Year
+
 ---
 ## 📫 Connect With Me
 
@@ -146,6 +164,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/YOUR_ORCID)
 
 </div>
+
 ---
 
 ## 💭 Random Dev Quote
@@ -160,10 +179,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
+
 ---
-
-<div align="center">
-
-### 🌟 Show some ❤️ by starring some of the repositories!
-**"Research is to see what everybody else has seen, and to think what nobody else has thought."** - *Albert Szent-Györgyi*
-</div>
