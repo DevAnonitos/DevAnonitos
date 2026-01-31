@@ -4,8 +4,12 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Research+%26+Development+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/DevAnonitos?style=social)](https://github.com/DevAnonitos)
-[![GitHub stars](https://img.shields.io/github/stars/DevAnonitos?style=social)](https://github.com/DevAnonitos)
+[![GitHub followers](https://img.shields.io/github/followers/DevAnonitos?style=social&cacheSeconds=3600)](https://github.com/DevAnonitos)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DevAnonitos&query=$.public_repos&label=Repos&style=social&logo=github)](https://github.com/DevAnonitos)
+[![GitHub stars](https://img.shields.io/github/stars/DevAnonitos?style=social&cacheSeconds=3600)](https://github.com/DevAnonitos)
+[![Last Commit](https://img.shields.io/github/last-commit/DevAnonitos/DevAnonitos?style=social)](https://github.com/DevAnonitos)
+[![Monthly Activity](https://img.shields.io/github/commit-activity/m/DevAnonitos/DevAnonitos?style=social)](https://github.com/DevAnonitos)
+[![GitHub Created At](https://img.shields.io/github/created-at/DevAnonitos/DevAnonitos?style=social&cacheSeconds=3600)](https://github.com/DevAnonitos)
 
 </div>
 
@@ -132,8 +136,8 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/REPO_NAME_2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevAnonitos&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/REPO_NAME_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevAnonitos&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/REPO_NAME_2)
 
 </div>
 
@@ -150,6 +154,7 @@
   - [![GitHub](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](link)
 
 #### 🌐 Web Development Projects
+
 - **[Project Name 3]** - Brief description of what it does
   - Tech: `React` `Node.js` `MongoDB`
   - [![GitHub](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](link)
