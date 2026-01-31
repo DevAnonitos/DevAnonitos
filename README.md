@@ -185,7 +185,6 @@
 - 🎓 **TensorFlow Developer Certificate** - Google, 2023
 -->
 
---- -->
 
 ## 📫 Connect With Me
 
