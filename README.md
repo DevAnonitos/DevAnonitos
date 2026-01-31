@@ -166,26 +166,26 @@
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAnonitos&theme=tokyo-night&hide_border=true)](https://github.com/DevAnonitos)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAnonitos&theme=tokyo-night&hide_border=true&area=true&grid=true&radius=16)](https://github.com/DevAnonitos)
 
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+<!-- ## 🏅 Achievements & Certifications
 
 ### 📜 Certifications
 <!-- Replace with your actual certifications or remove if you don't have any -->
+<!-- - 🎓 **[Certification Name]** - Issuing Organization, Year
 - 🎓 **[Certification Name]** - Issuing Organization, Year
-- 🎓 **[Certification Name]** - Issuing Organization, Year
-- 🎓 **[Certification Name]** - Issuing Organization, Year
+- 🎓 **[Certification Name]** - Issuing Organization, Year -->
 
 <!-- Example format:
 - 🎓 **AWS Certified Solutions Architect** - Amazon Web Services, 2024
 - 🎓 **TensorFlow Developer Certificate** - Google, 2023
 -->
 
----
+--- -->
 
 ## 📫 Connect With Me
 
