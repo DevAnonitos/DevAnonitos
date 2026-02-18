@@ -136,7 +136,7 @@
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevAnonitos&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/REPO_NAME_1)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevAnonitos&repo=devanonitos-portfolio_1&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/devanonitos-portfolio.git)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevAnonitos&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/REPO_NAME_2)
 
 </div>
