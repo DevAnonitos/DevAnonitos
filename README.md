@@ -118,48 +118,6 @@
   [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobe-acrobat-reader)](link-to-paper)
   [![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](link-to-code)
 
-
-### 🏆 Research Interests
-
-- 🧠 Deep Learning & Neural Networks
-- 👁️ Computer Vision & Image Processing
-- 🗣️ Natural Language Processing
-- 🤖 Reinforcement Learning
-- 📊 Data Mining & Analytics
-- 🔐 AI Security & Privacy
-
----
-
-## 🚀 Featured Projects
-
-### 🌟 Highlighted Repositories
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevAnonitos&repo=devanonitos-portfolio_1&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/devanonitos-portfolio.git)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevAnonitos&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/DevAnonitos/REPO_NAME_2)
-
-</div>
-
-### 💡 Project Categories
-
-#### 🤖 AI/ML Projects
-
-- **[Project Name 1]** - Brief description of what it does
-  - Tech: `Python` `TensorFlow` `OpenCV`
-  - [![GitHub](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](link)
-
-- **[Project Name 2]** - Brief description of what it does
-  - Tech: `PyTorch` `FastAPI` `Docker`
-  - [![GitHub](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](link)
-
-#### 🌐 Web Development Projects
-
-- **[Project Name 3]** - Brief description of what it does
-  - Tech: `React` `Node.js` `MongoDB`
-  - [![GitHub](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](link)
-  - [![Live Demo](https://img.shields.io/badge/View-Live_Demo-green?style=flat-square&logo=vercel)](link)
-
 ---
 
 ## 📈 Contribution Graph
